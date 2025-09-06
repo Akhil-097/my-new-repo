@@ -1,2 +1,2 @@
-# my-new-repo
+# My-new-repo
 for practice
